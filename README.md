@@ -5,18 +5,20 @@ This website is created to users who want to play an online quiz to test their g
 
 <img src="assets/images/repositive.png" alt="devices with website image">
 <hr>
-## FEATURES:Here we can see all 5 questions, final score examples and also (positive/negative) feedbacks:
+
+## FEATURES:
+Here we can see all 5 questions, final score examples and also (positive/negative) feedbacks:
 
 <img src="assets/images/q1.png" alt=“question01”>
-<hr>
+
 <img src="assets/images/q2.png" alt=“question02”>
 <hr>
 <img src="assets/images/q3.png" alt=“question03”>
-<hr>
+
 <img src="assets/images/q4.png" alt=“question04”>
 <hr>
 <img src="assets/images/q5.png" alt=“question05”>
-<hr>
+
 <img src="assets/images/positive-feedback.png" alt=“positive feedback”>
 <hr>
 <img src="assets/images/negative-feedback.png" alt=“negative feedback”>
