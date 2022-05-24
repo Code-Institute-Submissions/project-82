@@ -1,0 +1,40 @@
+h1 {
+  color:rgb(244, 52, 52);
+  text-shadow: 3px 3px 10px #0615e4
+}
+
+
+/*mobile screens*/
+@media  (max-width : 481px) {
+
+h1 {
+  font-size: 30px;
+  margin-top: 0;
+}
+  
+  h2 {
+  font-size: 6px;
+    margin-top: 0;
+  }
+
+  h3 {
+    font-size: 20px;
+    margin-top: 0;
+  }
+
+  .questions_box {
+    padding: 70px;
+    
+  }
+
+  .question-6, h2, h3 {
+    font-size: 17px;
+  }
+  
+}
+
+@media  (max-width : 1087px) {
+  .questions_box {
+    padding:80px;
+  }
+}
